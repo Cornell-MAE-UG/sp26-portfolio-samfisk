@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Samuel Fisk - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
