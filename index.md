@@ -6,7 +6,7 @@ title: Samuel Fisk
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/Sam-Fisk-Headshot.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ 'assets/images/Sam-Fisk-Headshot.jpg' | relative_url }}){: class="profile-image"}
 
  
 My name is Samuel Fisk, and I am a current freshman at Cornell University studying Mechanical Engineering. I grew up in the NYC Metropolitan area, and graduated from Great Neck South High School. I like to do all sorts of activities outdoors like climbing, fishing, biking, and boating.
