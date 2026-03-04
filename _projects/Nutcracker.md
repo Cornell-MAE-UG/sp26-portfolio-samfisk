@@ -3,11 +3,11 @@ layout: project
 title: Statics Nutcracker Design
 description: Github page of my nutcracker design for Statics OLHW 5b
 technologies: [N/A]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/Mauna-Loa-Macadamias.jpg
 ---
 
 Part 1: The problem statement and objective ("Find")
-The design problem I faced was to design a simple lever nutcracker that would be able to crack a macadamia nut. Later on, the problem was modified to use a linear actuator to provide the force to crack the nut, instead of a person's hands.
+The design problem I faced was to design a simple lever nutcracker that would be able to crack a macadamia nut.
 
 Part 2: Constraints and Input parameters ("Given")
 For the size of an average macadamia nut in its shell, I used a diameter of 1 inch. This value was taken from the Google AI Overview which stated that most commercial in-shell nuts fall between 20-25mm (~0.79-0.98 in.). I also looked at supplier websites to independently solidify this estimate. I took 1 inch as the maximum likely diameter and based my design off of that dimension.
@@ -27,10 +27,10 @@ A diagram of my design is attached as an image. This image is only to show the d
 ![Photo of simple diagram]({{ "/assets/images/OLHW-5b-Nutcracker-Design.jpeg" | relative_url }}){: .inline-image-l}
 
 Part 5: Discussion on usability of design.
-Lastly, I 
+I think my design is very usable since any normal person should have enough force to crack open the nut. If a person were to use both of their hands, they would only need ~25 lbs of grip strength in each hand to be able to crack the average nut. This would allow many people to use this nutcracker like elderly people and even children. My current design is not the best to deal with varying nut diameters since a small difference in nut diameter could lead to a large difference in handle separation, however I think my design would work with most commercially purchased nuts. If I wanted to also appeal to those who regularly crack small or large nuts, I could make my nut cracking surface one that varies in separation so different sized nuts could be cracked easily.
 
 Credit:
 For the force required to break a macadamia nut, I used information from the
 appendix section of this paper (Schrauf et al. Do capuchin monkeys use weight
 to select hammer tools, Anim Cogn 11, 413–422 (2008).
-https://doi.org/10.1007/s10071-007-0131-2). When I modified my design to include a linear actuator, I used an actuator from this website https://www.progressiveautomations.com/collections/linear-actuators
+https://doi.org/10.1007/s10071-007-0131-2).
