@@ -20,7 +20,8 @@ Part 4: A diagram of your nut cracker design. This doesn't need to be fancy, but
 intelligible.
 For this section
 
+![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 Part 5: Discussion on usability of design.
 Lastly, I 
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
