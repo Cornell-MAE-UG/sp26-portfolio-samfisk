@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Samuel Fisk
 description              : Samuel Fisk - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "sp26-portfolio-samfisk" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
