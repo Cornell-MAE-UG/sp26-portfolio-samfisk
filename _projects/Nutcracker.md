@@ -24,7 +24,7 @@ Part 4: A diagram of your nut cracker design. This doesn't need to be fancy, but
 intelligible.
 A diagram of my design is attached as an image. This image is only to show the design, and to give rough dimensions and forces. (The input and output forces are only representative, so the numbers/magnitudes are not exact)
 
-![Photo of simple diagram]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Photo of simple diagram]({{ "/assets/images/OLHW-5b-Nutcracker-Design.jpeg" | relative_url }}){: .inline-image-l}
 
 Part 5: Discussion on usability of design.
 Lastly, I 
