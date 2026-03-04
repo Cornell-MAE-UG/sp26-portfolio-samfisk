@@ -2,7 +2,7 @@
 layout: project
 title: Statics Nutcracker Design
 description: Github page of my nutcracker design for Statics OLHW 5b
-Technologies Used: [N/A]
+technologies: [N/A]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
